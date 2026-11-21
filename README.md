@@ -1,5 +1,6 @@
 # 1-1
 
+```bash
 # 경로 확인
 $ pwd
 /c/Users/ehdrb99769976/Desktop/1차시
@@ -77,3 +78,4 @@ root@91482fa81423:/File# chmod 777 A
 root@91482fa81423:/File# ls -l
 total 0
 -rwxrwxrwx 1 root root 0 Nov 21 03:54 A
+```
